@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMiniGame9Map", "TestMiniGame9Map.csproj", "{97C96EDD-1264-DD14-4358-D535B7CCEA3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMiniGame9Map.Editor", "TestMiniGame9Map.Editor.csproj", "{15ED3875-1F8A-0D9E-C12E-90AA150DB69B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C96EDD-1264-DD14-4358-D535B7CCEA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C96EDD-1264-DD14-4358-D535B7CCEA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C96EDD-1264-DD14-4358-D535B7CCEA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C96EDD-1264-DD14-4358-D535B7CCEA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15ED3875-1F8A-0D9E-C12E-90AA150DB69B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15ED3875-1F8A-0D9E-C12E-90AA150DB69B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15ED3875-1F8A-0D9E-C12E-90AA150DB69B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15ED3875-1F8A-0D9E-C12E-90AA150DB69B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

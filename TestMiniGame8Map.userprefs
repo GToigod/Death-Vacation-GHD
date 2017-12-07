@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="c:\Users\Ronny\Downloads\Unity Prototype\TestMiniGame8Map\Assets\PostProcessing\Editor\Attributes\PostProcessingModelEditorAttribute.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SceneControll.cs" Line="64" Column="2" />
+      <File FileName="Assets\Scripts\AudiManager.cs" Line="11" Column="37" />
+      <File FileName="Assets\Scripts\AudioManagerEffects.cs" Line="8" Column="31" />
+      <File FileName="Assets\Scripts\PowerBar.cs" Line="94" Column="65" />
+      <File FileName="Assets\Scripts\PontuacaoBasket.cs" Line="19" Column="37" />
+      <File FileName="c:\Users\Ronny\Downloads\Unity Prototype\TestMiniGame8Map\Assets\PostProcessing\Editor\Attributes\PostProcessingModelEditorAttribute.cs" Line="10" Column="81" />
+      <File FileName="Assets\Scripts\PontuacaoFish.cs" Line="50" Column="23" />
+      <File FileName="Assets\Scripts\PowerBarFish.cs" Line="101" Column="24" />
+      <File FileName="Assets\Scripts\LoadingBar.cs" Line="145" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
